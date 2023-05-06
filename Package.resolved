@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "secp256k1",
+        "repositoryURL": "https://github.com/greymass/secp256k1.git",
+        "state": {
+          "branch": "master",
+          "revision": "24482220d1e7731f6b48df20096d0de840a63af2",
+          "version": null
+        }
+      },
+      {
+        "package": "QueryStringCoder",
+        "repositoryURL": "https://github.com/jnordberg/swift-query-string-coder.git",
+        "state": {
+          "branch": "master",
+          "revision": "874a4e31d7c77f3fec56f893229f416e7604da4d",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
